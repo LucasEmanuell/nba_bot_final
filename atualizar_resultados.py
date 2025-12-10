@@ -54,5 +54,6 @@ def atualizar():
     conn.close()
     print("Resultados atualizados!")
 
+
 if __name__ == "__main__":
     atualizar()
